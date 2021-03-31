@@ -1,0 +1,9 @@
+D:\Программирование\OlapleshAcademyPrj\BankApplication\BankLibrary\bin\Debug\netcoreapp3.1\BankLibrary.deps.json
+D:\Программирование\OlapleshAcademyPrj\BankApplication\BankLibrary\bin\Debug\netcoreapp3.1\BankLibrary.dll
+D:\Программирование\OlapleshAcademyPrj\BankApplication\BankLibrary\bin\Debug\netcoreapp3.1\BankLibrary.pdb
+D:\Программирование\OlapleshAcademyPrj\BankApplication\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.csprojAssemblyReference.cache
+D:\Программирование\OlapleshAcademyPrj\BankApplication\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.AssemblyInfoInputs.cache
+D:\Программирование\OlapleshAcademyPrj\BankApplication\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.AssemblyInfo.cs
+D:\Программирование\OlapleshAcademyPrj\BankApplication\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.csproj.CoreCompileInputs.cache
+D:\Программирование\OlapleshAcademyPrj\BankApplication\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.dll
+D:\Программирование\OlapleshAcademyPrj\BankApplication\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.pdb
